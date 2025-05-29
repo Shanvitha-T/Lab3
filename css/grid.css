@@ -7,7 +7,7 @@
         /* Two rows with different heights */
         gap: 0; 
         /* Space between rows and columns */
-        height: 90vh;
+        
       }
       .grid-item {
         background-color: #8ca1a5;
